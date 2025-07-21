@@ -100,3 +100,4 @@ This project offers a foundational understanding of building a modular and autom
 data processing logic suitable for both beginners and intermediate practitioners in data engineering and machine learning.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/4f2d6dc7-980b-4a81-9a36-85a693a3abbd)
